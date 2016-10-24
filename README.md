@@ -50,8 +50,8 @@ ruby ./bin/todo add --title "Prepare halloween" --deadline 31/10/2016
 
 ```sh
 # Example 1
-./bin/todo ls
+ruby ./bin/todo ls
 
 # Example 2
-./bin/todo ls --sort title --overdue
+ruby ./bin/todo ls --sort title --overdue
 ```
