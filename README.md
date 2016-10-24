@@ -1,12 +1,20 @@
 # Refactor TODOs
 
-## Running Tests
+## Setup
+
+Run `$ bundle install`
+
+## Get code smells
+
+Run `$ rubycritic`
+
+## Run Tests
 
 ```sh
 $ rake test
 ```
 
-## Adding TODOs
+## Add TODOs
 
 - Parameters:
   - Required:
