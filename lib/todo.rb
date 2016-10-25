@@ -1,4 +1,4 @@
-require 'todos'
+require_relative 'todos'
 
 class Todo
   attr_reader :id
